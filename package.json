@@ -1,0 +1,17 @@
+{
+  "name": "cd_tipcalc",
+  "version": "1.0.0",
+  "description": "React Tip Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "nodemon": "^2.0.15",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
